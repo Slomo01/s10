@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.p1{
+    background-color: orange;
+    text-align: justify;
+    color: aqua;
+    margin: 20px;
+
+}
+.p2{
+    background-color: blueviolet;
+    text-align: justify;
+    color: chartreuse;
+    margin-top: 95px;
+    margin-bottom: 30px;
+    margin-left: 15px;
+    margin-right: 20px;
+}
+.p3{
+    background-color: black;
+    text-align: justify;
+    color: white;
+    /*margin: top right botton left*/
+    /*margin: 20px 15px 10px 8px;*/
+    /*margin: top right/left botton*/
+    /*margin: 30px 15px 25 px;*/
+    /*margin: top/botton  left/right*/
+    /*margin  30px 15 px*/
+    margin: 30px 45px;
+}

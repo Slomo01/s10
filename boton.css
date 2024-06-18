@@ -1,0 +1,10 @@
+button {
+    display: block;
+    font-family: Franklin Gothic Medium;
+    border-radius: 19px;
+    background-color: rgb(0, 255, 55);
+
+    padding: 10px;
+    margin: auto;
+    font-size: 20px;
+}

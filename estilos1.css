@@ -1,0 +1,33 @@
+h1{
+    /* border= grosor; estilo de la linea y color*/
+    /*Los estilos de linea :Solid,dashet,dotted,double  <<<<<SEPARADO>>>>> */ 
+    border: 10px dotted blue;
+
+}
+p{
+    /*<<<<<<JUNTO>>>>>*/
+    border-width: 10px ;
+    border-style: solid;
+    border-color:brown;
+}
+h2{
+    border-top: 3px dashed chocolate;
+    border-bottom:  5px solid  blue;
+    border-left: 12px dotted orange;
+    border-right: 15px double yellowgreen;
+}
+p.parrafo{
+    border-top: 12px;
+    border-style: dashed;
+    border-color: cadetblue;
+    border-bottom-width: 10px;
+    border-bottom-style: solid;
+    border-bottom-color:violet ;
+    border-left-color: aqua;
+    border-left-width: 8px;
+    border-left-style: dotted;
+    border-right-color: beige;
+    border-right-width: 8px;
+    border-right-style: double;
+
+}
